@@ -1,0 +1,27 @@
+body{
+    background-image: url(/Projeto_mentoria_5/Space-Tourism/img/home/background-home-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header__list{
+    display: flex;
+    justify-content:space-between;
+    align-items: center ;
+    margin: 3em 3em;
+    background-color: darkblue;
+    opacity: 0.4;
+    padding: 0 3em;
+    width: 40vw;
+    height: 10vh;
+    position: absolute;
+    left: 40em;
+}
+
+.nav__link{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+
+}
